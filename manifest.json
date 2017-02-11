@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "gitify",
+  "version": "1.0.0",
+  "description": "Github issues notifier",
+  "icons": {
+    "48": "icons/icon.png"
+  },
+  "browser_action": {
+    "default_title": "Gitify",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabs", "*://*/*"]
+}
