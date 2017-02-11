@@ -25,6 +25,7 @@ List of notification build in version 1:
 
 
 Version 2:
+- add organisations repos that you are involved with
 - badge which will notify the user of the newly created issue
 
 Version 3:
