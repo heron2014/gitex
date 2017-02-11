@@ -4,7 +4,7 @@
      if (response) {
        sendResponse({ res: JSON.parse(response).name });
      } else {
-       sendResponse({ res: 'Stranger' });
+       sendResponse({ res: request.githubName });
      }
     });
     //http://stackoverflow.com/questions/20077487/chrome-extension-message-passing-response-not-sent
