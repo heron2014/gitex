@@ -18,8 +18,8 @@ Version 1:
 - number of labeled issues based on specific repo
 - on click redirect the user to specific issue
 
-![Version 1a](img/img1.png)
-![Version 1b](img/img2.png)
+![Version 1a](img/img3.png)
+![Version 1b](img/img1.png)
 
 Version 2:
 - add organisations
