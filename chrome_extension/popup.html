@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Gitify</title>
+  </head>
+  <body style="width:400px;">
+    <div id="unauthorized">
+      <button id="authorize-button">Sign in via Github</button>
+    </div>
+    <div id="authorized">
+      <div id="user_info"></div>
+      <button id="revoke" style="display:none">Revoke token</button>
+      <br><b>Your repos:</b> <br>
+      <textarea id="user_repos" style="width: 95%; min-height: 200px"></textarea>
+    </div>
+    <script src="popup.js"></script>
+    <script src="keys.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>

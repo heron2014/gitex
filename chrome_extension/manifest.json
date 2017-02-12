@@ -6,10 +6,11 @@
   "icons": {
     "48": "icons/icon.png"
   },
+  "key": "hkcolfhkkdgfclkmnphopnkpfiiaofom",
   "author": "heron2014",
   "background": {
     "persistent": false,
-    "scripts": ["background.js"]
+    "scripts": ["keys.js", "background.js"]
   },
   "browser_action": {
     "default_title": "Gitify",
@@ -22,5 +23,10 @@
       "run_at":  "document_end"
     }
   ],
-  "permissions": ["tabs", "*://*/*"]
+  "permissions": [
+    "tabs",
+    "identity",
+   "https://github.com/",
+   "storage"
+  ]
 }
