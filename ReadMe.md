@@ -1,44 +1,36 @@
 # Coming soon!
 
-## Gitify - new tool that will change every developer life forever!
-
 ## What
 
-Gitify is the Chrome extension that organise and summarise your Github issues.
+Gitex is the Chrome extension that organise and summarise your Github issues based on the labels.
 
 ## Why
 
-Working on couple of projects at the same time? Having lots of open issues with different labels? Checking in every couple of hours Github notifications? You know the story...
+Working on couple of projects at the same time? Having lots of open issues with different labels? You know the story...
 
-So, Gitify will tell you all about it under one click!
-
+So, Gitex will tell you all about it under one or two clicks!
 
 ## Road Map
 
 Version 1:
 
-List of notification build in version 1:
 - authentication via Github
 - number of labeled issues based on specific repo
-- on click redirect the user to specific issue (not sure if this will be done in Version1)
+- on click redirect the user to specific issue
 
-![Version 1a](img/img2.png)
-![Version 1b](img/version1.png)
+![Version 1a](img/img3.png)
+![Version 1b](img/img1.png)
 
 Version 2:
-- add organisations repos that you are involved with
-- badge which will notify the user of the newly created issue
+- add organisations
 
 Version 3:
-- milestone deadline notifications
+- badge which will notify the user of the new issue with label
+- milestone deadline notification
 
 Version 4:
 - to be announced soon
 
-Create a website / logo etc.
-
-Write a blog
-
 ## Wanna get involved?
 
-- open an issue, create PR
+All contributions are very welcome! Let's build it together!
