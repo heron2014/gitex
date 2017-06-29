@@ -21,6 +21,6 @@
   });
 
   chrome.runtime.sendMessage({from: 'content', subject: 'showPageAction', githubName: githubName}, function (response) {
-    data.name = response.res;
+    data.name = 'Anita2';
   });
 }());
